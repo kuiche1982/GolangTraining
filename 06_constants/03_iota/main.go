@@ -8,8 +8,14 @@ const (
 	c = iota // 2
 )
 
+const (
+	d = iota // 0
+	q = "others"
+	e = iota // 2
+	f = iota // 3
+)
+
 func main() {
-	fmt.Println(a)
-	fmt.Println(b)
-	fmt.Println(c)
+	fmt.Println(a, b, c)
+	fmt.Println(d, e, f)
 }

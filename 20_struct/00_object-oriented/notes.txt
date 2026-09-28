@@ -6,7 +6,7 @@ behavior ("methods")
 exported / un-exported
 
 (2) Reusability
-inheritence ("embedded types")
+inheritance ("embedded types")
 
 (3) Polymorphism
 interfaces
@@ -23,9 +23,9 @@ Classes
 -- classes hold both:
 ==== state / data / fields
 ==== behavior / methods
--- Public / private
+-- public / private
 
-Inheritence
+Inheritance
 
 //////////////
 In Go:
